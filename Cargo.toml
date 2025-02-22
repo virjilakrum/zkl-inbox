@@ -1,6 +1,0 @@
-[workspace]
-members = [
-    "programs/key-registry",
-    "programs/inbox"
-]
-resolver = "2"
